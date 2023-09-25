@@ -4,10 +4,13 @@
     {
         static void Main(string[] args)
         {
-            //KOMMENTAR            
-            Console.WriteLine("HEJHEJHEJHEJ");
-
-            Console.WriteLine("Hej");
+                        
+           /*LUDWIGS KAPITEL
+            
+            Hejhej!!
+           Min helg var skitbra, bra surf god mat och gott sällskap. 
+                
+            */
         }
     }
 }
