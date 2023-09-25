@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            //Hej
+            //Hejsan detta är mitt kapitel. Ett nytt spel vid namn EAFC 24 släpptes i fredags så i helgen har jag spelat extremt mycket. 
+                       
         }
     }
 }
