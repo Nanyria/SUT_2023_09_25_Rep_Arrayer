@@ -4,9 +4,8 @@
     {
         static void Main(string[] args)
         {
-            //KOMMENTAR
-            Console.WriteLine("XD");
-
+            //KOMMENTAR            
+            Console.WriteLine("HEJHEJHEJHEJ");
         }
     }
 }
