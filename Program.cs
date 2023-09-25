@@ -6,6 +6,8 @@
         {
             //KOMMENTAR            
             Console.WriteLine("HEJHEJHEJHEJ");
+
+            Console.WriteLine("Hej");
         }
     }
 }
